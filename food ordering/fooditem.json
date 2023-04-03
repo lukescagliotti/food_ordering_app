@@ -1,0 +1,43 @@
+{
+    [
+          {
+            "name": "Cheeseburger",
+            "price": 5.99,
+            "isSide": false,
+            "suggestedSides": ["French Fries", "Onion Rings"]
+          },
+          {
+            "name": "Hamburger",
+            "price": 4.99,
+            "isSide": false,
+            "suggestedSides": ["French Fries", "Sweet Potato Fries"]
+          },
+          {
+            "name": "Chicken Nuggets",
+            "price": 3.99,
+            "isSide": false,
+            "suggestedSides": ["French Fries", "Cole Slaw"]
+          },
+          {
+            "name": "French Fries",
+            "price": 2.99,
+            "isSide": true
+          },
+          {
+            "name": "Onion Rings",
+            "price": 3.99,
+            "isSide": true
+          },
+          {
+            "name": "Sweet Potato Fries",
+            "price": 3.99,
+            "isSide": true
+          },
+          {
+            "name": "Cole Slaw",
+            "price": 1.99,
+            "isSide": true
+          }
+    ]
+}
+
